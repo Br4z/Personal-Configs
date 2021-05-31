@@ -1,0 +1,19 @@
+#Mon May 31 14:12:33 COT 2021
+shaderPack=Enhanced Default v1.12.zip
+antialiasingLevel=0
+normalMapEnabled=true
+specularMapEnabled=true
+renderResMul=0.75
+shadowResMul=0.75
+handDepthMul=0.0625
+cloudShadow=false
+oldHandLight=default
+oldLighting=default
+tweakBlockDamage=false
+shadowClipFrustrum=true
+TexMinFilB=0
+TexMinFilN=0
+TexMinFilS=0
+TexMagFilB=0
+TexMagFilN=0
+TexMagFilS=0
