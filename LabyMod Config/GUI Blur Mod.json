@@ -1,0 +1,8 @@
+{
+  "config": {
+    "blurInChat": false,
+    "gradientStartAlpha": 73,
+    "gradientEndAlpha": 73,
+    "radius": 5
+  }
+}

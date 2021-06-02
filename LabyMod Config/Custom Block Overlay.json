@@ -1,5 +1,9 @@
 {
   "config": {
-    "outlineRainbow": true
+    "outlineRainbow": false,
+    "lineWidth": 20,
+    "overlayTransparency": 14,
+    "overlayRainbow": true,
+    "outlineColor": -5592406
   }
 }
