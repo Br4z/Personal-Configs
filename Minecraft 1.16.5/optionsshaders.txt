@@ -1,11 +1,11 @@
-#Sat Jun 05 20:24:30 COT 2021
-shaderPack=OFF
+#Sun Jun 06 18:30:52 COT 2021
+shaderPack=Builder's QOL Shaders V2.8.2.zip
 antialiasingLevel=0
 normalMapEnabled=true
 specularMapEnabled=true
-renderResMul=0.75
-shadowResMul=0.75
-handDepthMul=0.0625
+renderResMul=1.0
+shadowResMul=1.0
+handDepthMul=0.125
 cloudShadow=false
 oldHandLight=default
 oldLighting=default

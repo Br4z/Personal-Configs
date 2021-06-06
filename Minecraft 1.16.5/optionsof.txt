@@ -5,7 +5,7 @@ ofOcclusionFancy:false
 ofSmoothFps:false
 ofSmoothWorld:true
 ofAoLevel:0.0
-ofClouds:3
+ofClouds:1
 ofCloudsHeight:0.0
 ofTrees:1
 ofDroppedItems:1
@@ -33,9 +33,9 @@ ofAutoSaveTicks:28800
 ofBetterGrass:3
 ofConnectedTextures:3
 ofWeather:true
-ofSky:false
+ofSky:true
 ofStars:false
-ofSunMoon:false
+ofSunMoon:true
 ofVignette:1
 ofChunkUpdates:1
 ofChunkUpdatesDynamic:false
